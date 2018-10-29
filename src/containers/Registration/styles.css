@@ -1,0 +1,31 @@
+.form-wrapper {
+   display: flex;
+   justify-content: center;
+   flex-direction: column;
+   max-width: 300px;
+   align-items: center;
+}
+
+.custom-button {
+    margin: 20px 70px 100px 70px;
+}
+
+.form-wrapper label {
+    margin: 20px;
+}
+
+form {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+}
+
+.user-alert {
+    display: flex;
+    font-size: 22px;
+    width: 100%;
+    color: 	#3b5998;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+}

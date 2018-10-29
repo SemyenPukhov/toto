@@ -1,0 +1,19 @@
+.login-form-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: auto;
+}
+
+.error-message {
+    width: 30px;
+    background: #afafaf;
+}
+
+.log-button {
+    margin: 20px auto;
+}
+
+.login-form-wrapper label {
+    margin: 20px;
+}
